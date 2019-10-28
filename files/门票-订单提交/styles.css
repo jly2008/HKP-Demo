@@ -1008,7 +1008,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft YaHei UI';
+  font-family:'Microsoft YaHei UI Regular', 'Microsoft YaHei UI';
   font-weight:400;
   font-style:normal;
   font-size:15px;
@@ -1020,7 +1020,7 @@
   top:54px;
   width:92px;
   height:22px;
-  font-family:'Microsoft YaHei UI';
+  font-family:'Microsoft YaHei UI Regular', 'Microsoft YaHei UI';
   font-weight:400;
   font-style:normal;
   font-size:15px;
@@ -1182,7 +1182,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft YaHei UI Bold', 'Microsoft YaHei UI';
+  font-family:'Microsoft YaHei UI Bold', 'Microsoft YaHei UI Regular', 'Microsoft YaHei UI';
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -1195,7 +1195,7 @@
   top:8px;
   width:256px;
   height:26px;
-  font-family:'Microsoft YaHei UI Bold', 'Microsoft YaHei UI';
+  font-family:'Microsoft YaHei UI Bold', 'Microsoft YaHei UI Regular', 'Microsoft YaHei UI';
   font-weight:700;
   font-style:normal;
   font-size:16px;
