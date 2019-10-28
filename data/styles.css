@@ -212,6 +212,11 @@
 }
 ._水平线1 {
 }
+._多行文本框1 {
+  font-size:13px;
+  color:#000000;
+  text-align:left;
+}
 ._文本段落2 {
   font-size:16px;
   color:#000000;
