@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:421px;
+  width:431px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -12,7 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u2288_div {
+#u1412_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -32,7 +32,7 @@
   font-size:19px;
   text-align:center;
 }
-#u2288 {
+#u1412 {
   border-width:0px;
   position:absolute;
   left:50px;
@@ -45,7 +45,7 @@
   font-size:19px;
   text-align:center;
 }
-#u2288_text {
+#u1412_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -53,7 +53,7 @@
   width:371px;
   word-wrap:break-word;
 }
-#u2289_div {
+#u1413_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -73,7 +73,7 @@
   font-size:15px;
   text-align:center;
 }
-#u2289 {
+#u1413 {
   border-width:0px;
   position:absolute;
   left:160px;
@@ -86,11 +86,80 @@
   font-size:15px;
   text-align:center;
 }
-#u2289_text {
+#u1413_text {
   border-width:0px;
   position:absolute;
   left:0px;
   top:12px;
   width:152px;
+  word-wrap:break-word;
+}
+#u1414_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:389px;
+  height:280px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(188, 188, 188, 1);
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u1414 {
+  border-width:0px;
+  position:absolute;
+  left:42px;
+  top:336px;
+  width:389px;
+  height:280px;
+}
+#u1414_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:9px;
+  width:389px;
+  word-wrap:break-word;
+}
+#u1415_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:278px;
+  height:41px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:17px;
+  text-align:center;
+}
+#u1415 {
+  border-width:0px;
+  position:absolute;
+  left:97px;
+  top:267px;
+  width:278px;
+  height:41px;
+  font-size:17px;
+  text-align:center;
+}
+#u1415_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:9px;
+  width:278px;
   word-wrap:break-word;
 }
