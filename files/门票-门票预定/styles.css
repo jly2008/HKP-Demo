@@ -373,7 +373,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft YaHei UI Bold', 'Microsoft YaHei UI Regular', 'Microsoft YaHei UI';
+  font-family:'Microsoft YaHei UI Bold', 'Microsoft YaHei UI';
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -386,7 +386,7 @@
   top:131px;
   width:190px;
   height:26px;
-  font-family:'Microsoft YaHei UI Bold', 'Microsoft YaHei UI Regular', 'Microsoft YaHei UI';
+  font-family:'Microsoft YaHei UI Bold', 'Microsoft YaHei UI';
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -1103,6 +1103,41 @@
   position:absolute;
   left:0px;
   top:0px;
+  width:78px;
+  height:21px;
+  background:inherit;
+  background-color:rgba(253, 102, 153, 1);
+  border:none;
+  border-radius:6px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  color:#FFFFFF;
+  text-align:center;
+}
+#u802 {
+  border-width:0px;
+  position:absolute;
+  left:270px;
+  top:1354px;
+  width:78px;
+  height:21px;
+  color:#FFFFFF;
+  text-align:center;
+}
+#u802_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:1px;
+  width:78px;
+  word-wrap:break-word;
+}
+#u803_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
   width:268px;
   height:29px;
   background:inherit;
@@ -1119,7 +1154,7 @@
   color:#333333;
   text-align:left;
 }
-#u802 {
+#u803 {
   border-width:0px;
   position:absolute;
   left:97px;
@@ -1133,7 +1168,7 @@
   color:#333333;
   text-align:left;
 }
-#u802_text {
+#u803_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -1141,12 +1176,12 @@
   width:268px;
   word-wrap:break-word;
 }
-#u803_div {
+#u804_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:77px;
+  width:56px;
   height:23px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -1155,34 +1190,69 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft YaHei UI Bold', 'Microsoft YaHei UI Regular', 'Microsoft YaHei UI';
+  font-family:'Microsoft YaHei UI Bold', 'Microsoft YaHei UI';
   font-weight:700;
   font-style:normal;
   color:#FF0000;
   text-align:right;
 }
-#u803 {
+#u804 {
   border-width:0px;
   position:absolute;
-  left:254px;
-  top:1220px;
-  width:77px;
+  left:292px;
+  top:1205px;
+  width:56px;
   height:23px;
-  font-family:'Microsoft YaHei UI Bold', 'Microsoft YaHei UI Regular', 'Microsoft YaHei UI';
+  font-family:'Microsoft YaHei UI Bold', 'Microsoft YaHei UI';
   font-weight:700;
   font-style:normal;
   color:#FF0000;
   text-align:right;
 }
-#u803_text {
+#u804_text {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:77px;
+  width:56px;
   word-wrap:break-word;
 }
-#u804_div {
+#u805_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:78px;
+  height:21px;
+  background:inherit;
+  background-color:rgba(253, 102, 153, 1);
+  border:none;
+  border-radius:6px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  color:#FFFFFF;
+  text-align:center;
+}
+#u805 {
+  border-width:0px;
+  position:absolute;
+  left:270px;
+  top:1230px;
+  width:78px;
+  height:21px;
+  color:#FFFFFF;
+  text-align:center;
+}
+#u805_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:1px;
+  width:78px;
+  word-wrap:break-word;
+}
+#u806_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -1203,7 +1273,7 @@
   color:#949494;
   text-align:center;
 }
-#u804 {
+#u806 {
   border-width:0px;
   position:absolute;
   left:283px;
@@ -1217,7 +1287,7 @@
   color:#949494;
   text-align:center;
 }
-#u804_text {
+#u806_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -1225,7 +1295,7 @@
   width:77px;
   word-wrap:break-word;
 }
-#u805_div {
+#u807_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -1246,7 +1316,7 @@
   color:#868686;
   text-align:left;
 }
-#u805 {
+#u807 {
   border-width:0px;
   position:absolute;
   left:97px;
@@ -1260,7 +1330,7 @@
   color:#868686;
   text-align:left;
 }
-#u805_text {
+#u807_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -1268,7 +1338,7 @@
   width:42px;
   white-space:nowrap;
 }
-#u806_div {
+#u808_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -1289,7 +1359,7 @@
   color:#868686;
   text-align:left;
 }
-#u806 {
+#u808 {
   border-width:0px;
   position:absolute;
   left:97px;
@@ -1303,7 +1373,7 @@
   color:#868686;
   text-align:left;
 }
-#u806_text {
+#u808_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -1311,7 +1381,7 @@
   width:42px;
   white-space:nowrap;
 }
-#u807_div {
+#u809_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -1325,26 +1395,26 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft YaHei UI Bold', 'Microsoft YaHei UI Regular', 'Microsoft YaHei UI';
+  font-family:'Microsoft YaHei UI Bold', 'Microsoft YaHei UI';
   font-weight:700;
   font-style:normal;
   color:#FF0000;
   text-align:right;
 }
-#u807 {
+#u809 {
   border-width:0px;
   position:absolute;
-  left:254px;
-  top:1334px;
+  left:273px;
+  top:1327px;
   width:75px;
   height:23px;
-  font-family:'Microsoft YaHei UI Bold', 'Microsoft YaHei UI Regular', 'Microsoft YaHei UI';
+  font-family:'Microsoft YaHei UI Bold', 'Microsoft YaHei UI';
   font-weight:700;
   font-style:normal;
   color:#FF0000;
   text-align:right;
 }
-#u807_text {
+#u809_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -1352,7 +1422,7 @@
   width:75px;
   word-wrap:break-word;
 }
-#u808_div {
+#u810_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -1371,7 +1441,7 @@
   font-style:normal;
   font-size:16px;
 }
-#u808 {
+#u810 {
   border-width:0px;
   position:absolute;
   left:7px;
@@ -1383,7 +1453,7 @@
   font-style:normal;
   font-size:16px;
 }
-#u808_text {
+#u810_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -1391,7 +1461,7 @@
   width:162px;
   word-wrap:break-word;
 }
-#u809_div {
+#u811_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -1406,7 +1476,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u809 {
+#u811 {
   border-width:0px;
   position:absolute;
   left:7px;
@@ -1414,62 +1484,12 @@
   width:357px;
   height:172px;
 }
-#u809_text {
+#u811_text {
   border-width:0px;
   position:absolute;
   left:0px;
   top:12px;
   width:357px;
-  word-wrap:break-word;
-}
-#u810_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:11px;
-  height:18px;
-}
-#u810 {
-  border-width:0px;
-  position:absolute;
-  left:341px;
-  top:1225px;
-  width:11px;
-  height:18px;
-}
-#u810_text {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
-#u811_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:11px;
-  height:18px;
-}
-#u811 {
-  border-width:0px;
-  position:absolute;
-  left:339px;
-  top:1337px;
-  width:11px;
-  height:18px;
-}
-#u811_text {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
   word-wrap:break-word;
 }
 #u812_img {
@@ -1832,7 +1852,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft YaHei UI Bold', 'Microsoft YaHei UI Regular', 'Microsoft YaHei UI';
+  font-family:'Microsoft YaHei UI Bold', 'Microsoft YaHei UI';
   font-weight:700;
   font-style:normal;
   color:#FFFFFF;
@@ -1845,7 +1865,7 @@
   top:633px;
   width:105px;
   height:37px;
-  font-family:'Microsoft YaHei UI Bold', 'Microsoft YaHei UI Regular', 'Microsoft YaHei UI';
+  font-family:'Microsoft YaHei UI Bold', 'Microsoft YaHei UI';
   font-weight:700;
   font-style:normal;
   color:#FFFFFF;
